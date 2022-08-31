@@ -24,8 +24,9 @@ body:
     id: question
     attributes:
       label: Question
-      description: >- Provide your question with enough detail that it is
-        helpful to anyone reading the question (maybe years later).
+      description: >-
+        Provide your question with enough detail that it is helpful to anyone
+        reading the question (maybe years later).
       placeholder: How do I ...
     validations:
       required: true
